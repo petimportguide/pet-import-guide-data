@@ -18,7 +18,7 @@
   "from": "united-states",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/australia/cat/",
@@ -74,14 +74,14 @@
   "from": "united-states",
   "to": "united-arab-emirates",
   "pet": "dog",
-  "last_verified": "2026-11-11"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/united-arab-emirates/cat/",
   "from": "united-states",
   "to": "united-arab-emirates",
   "pet": "cat",
-  "last_verified": "2026-11-11"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/united-states/dog/",
@@ -130,7 +130,7 @@
   "from": "united-kingdom",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/australia/cat/",
@@ -158,28 +158,28 @@
   "from": "united-kingdom",
   "to": "united-arab-emirates",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/united-arab-emirates/cat/",
   "from": "united-kingdom",
   "to": "united-arab-emirates",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/canada/dog/",
   "from": "united-kingdom",
   "to": "canada",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/canada/cat/",
   "from": "united-kingdom",
   "to": "canada",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/germany/to/united-states/dog/",
@@ -270,7 +270,7 @@
   "from": "germany",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/germany/to/australia/cat/",
@@ -284,7 +284,7 @@
   "from": "france",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/france/to/australia/cat/",
@@ -298,7 +298,7 @@
   "from": "ireland",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/ireland/to/australia/cat/",
@@ -326,7 +326,7 @@
   "from": "japan",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/japan/to/australia/cat/",
@@ -396,7 +396,7 @@
   "from": "canada",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/canada/to/australia/cat/",
@@ -522,7 +522,7 @@
   "from": "china",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/china/to/australia/cat/",
@@ -536,7 +536,7 @@
   "from": "hong-kong",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/hong-kong/to/australia/cat/",
@@ -550,28 +550,28 @@
   "from": "china",
   "to": "canada",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/china/to/canada/cat/",
   "from": "china",
   "to": "canada",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/hong-kong/to/canada/dog/",
   "from": "hong-kong",
   "to": "canada",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/hong-kong/to/canada/cat/",
   "from": "hong-kong",
   "to": "canada",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/singapore/to/united-kingdom/dog/",
@@ -592,7 +592,7 @@
   "from": "singapore",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/singapore/to/australia/cat/",
@@ -634,14 +634,14 @@
   "from": "south-korea",
   "to": "canada",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/south-korea/to/canada/cat/",
   "from": "south-korea",
   "to": "canada",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/south-korea/to/germany/dog/",
@@ -690,14 +690,14 @@
   "from": "taiwan",
   "to": "canada",
   "pet": "dog",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/taiwan/to/canada/cat/",
   "from": "taiwan",
   "to": "canada",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/thailand/to/united-states/dog/",
@@ -1089,7 +1089,7 @@
   "from": "taiwan",
   "to": "australia",
   "pet": "dog",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/taiwan/to/australia/cat/",
@@ -1117,7 +1117,7 @@
   "from": "mexico",
   "to": "canada",
   "pet": "dog",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-21"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/saudi-arabia/dog/",
@@ -1326,6 +1326,90 @@
   "url": "https://petimportguide.com/from/united-kingdom/to/ireland/cat/",
   "from": "united-kingdom",
   "to": "ireland",
+  "pet": "cat",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/qatar/dog/",
+  "from": "united-states",
+  "to": "qatar",
+  "pet": "dog",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/qatar/cat/",
+  "from": "united-states",
+  "to": "qatar",
+  "pet": "cat",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/switzerland/dog/",
+  "from": "united-states",
+  "to": "switzerland",
+  "pet": "dog",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/switzerland/cat/",
+  "from": "united-states",
+  "to": "switzerland",
+  "pet": "cat",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/cyprus/dog/",
+  "from": "united-states",
+  "to": "cyprus",
+  "pet": "dog",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/cyprus/cat/",
+  "from": "united-states",
+  "to": "cyprus",
+  "pet": "cat",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/bahamas/dog/",
+  "from": "united-states",
+  "to": "bahamas",
+  "pet": "dog",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/bahamas/cat/",
+  "from": "united-states",
+  "to": "bahamas",
+  "pet": "cat",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/turkey/to/united-states/dog/",
+  "from": "turkey",
+  "to": "united-states",
+  "pet": "dog",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/turkey/to/united-states/cat/",
+  "from": "turkey",
+  "to": "united-states",
+  "pet": "cat",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/turkey/to/united-kingdom/dog/",
+  "from": "turkey",
+  "to": "united-kingdom",
+  "pet": "dog",
+  "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/turkey/to/united-kingdom/cat/",
+  "from": "turkey",
+  "to": "united-kingdom",
   "pet": "cat",
   "last_verified": "2026-11-21"
  }
