@@ -1,0 +1,423 @@
+[
+ {
+  "title": "Chile: permanent ID now mandatory for dogs, cats and ferrets from 27 July 2026",
+  "date": "2026-11-20",
+  "body": "Under SAG Exempt Resolution No. 3,343 (published 28 April 2026, in force 27 July 2026, repealing Resolution 6,508/2021), dogs, cats and ferrets entering Chile need permanent identification — an ISO 11784/11785 microchip or a tattoo, with the number matching the CVI. First rabies vaccination at least 21 days before entry; clinical exam and antiparasitic treatment 5 to 30 days before the CVI is issued; CVI valid 10 days, extendable by 5. No rabies antibody test, no advance permit and no quarantine. We had no Chile pages, so nothing was patched: US to Chile dog and cat pages are queued for the weekend build.",
+  "pages": [],
+  "sources": [
+   {
+    "label": "LeyChile — Resolución 3343 EXENTA (2026), official text",
+    "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Resolucion-3343-EXENTA_28-ABR-2026&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_con_notas_al_pie=True&hddResultadoExportar=1223605.2026-07-27.0.0%23"
+   }
+  ]
+ },
+ {
+  "title": "Vietnam: new pet import circular in force from 1 January 2026",
+  "date": "2026-11-20",
+  "body": "Circular 01/2026/TT-BNNMT (Ministry of Agriculture and Environment) replaces Circular 25/2016. Owners travelling with one or two dogs or cats declare them at the airport border quarantine post; the import quarantine certificate (Form 15a) is issued within one working day if no sampling is needed. Three or more pets need advance approval from the Department of Animal Husbandry and Veterinary Medicine. Microchip before rabies vaccination. From 1 August 2026, Decree 204 fines walking a dog in public without a muzzle or leash at 1 to 2 million dong. We had no Vietnam pages, so nothing was patched: US to Vietnam dog and cat pages are queued for the weekend build.",
+  "pages": [],
+  "sources": [
+   {
+    "label": "Circular 01/2026/TT-BNNMT, official text (Vietnamese)",
+    "url": "https://cdn.tailieu.vn/files/samples/2026/20260428/viballmer-12/012026ttbnnmt688768.pdf"
+   }
+  ]
+ },
+ {
+  "title": "Philippines: rabies titer test and new Form 1 required for import permits from 1 January 2027",
+  "date": "2026-11-20",
+  "body": "Under BAI Memorandum Circular No. 60 (26 October 2026), SPSIC applications for dogs and cats approved from 1 January 2027 must include a rabies neutralizing antibody titer result of at least 0.5 IU/ml from a government-accredited laboratory and a completed Form 1 per animal. Rabies becomes the only required vaccine and the minimum age at application is 18 weeks. We had no Philippines-inbound pages, so we built the US to Philippines dog and cat pages on the new rules rather than patching anything.",
+  "pages": [
+   {
+    "label": "US to Philippines dog",
+    "url": "/from/united-states/to/philippines/dog/"
+   },
+   {
+    "label": "US to Philippines cat",
+    "url": "/from/united-states/to/philippines/cat/"
+   }
+  ]
+ },
+ {
+  "title": "EU entry certificates: new official form mandatory for certificates issued from 1 October 2026",
+  "date": "2026-11-20",
+  "body": "Under Implementing Regulation (EU) 2026/705, animal health certificates for pets entering the EU must follow the new model (Part 1 of Annex III). Certificates issued on the old model (Part 1 of Annex IV to Regulation (EU) No 577/2013) before 1 October 2026 remain acceptable only if the pet is presented at the border by 31 March 2027. The affected route pages now carry this as a question, with the EUR-Lex text as the source.",
+  "pages": [
+   {
+    "label": "Brazil to Portugal, dog",
+    "url": "/from/brazil/to/portugal/dog/"
+   },
+   {
+    "label": "Thailand to Germany, dog",
+    "url": "/from/thailand/to/germany/dog/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "EUR-Lex — Implementing Regulation (EU) 2026/705, Article 6(3)",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0705"
+   }
+  ]
+ },
+ {
+  "title": "Japan: dog and cat imports from Kyrgyzstan suspended since 12 June 2026",
+  "date": "2026-11-20",
+  "body": "Japan's Animal Quarantine Service (AQS) suspended, in principle, the import quarantine procedures for dogs and cats exported from Kyrgyzstan on 12 June 2026; the suspension is still in force. A matching suspension for Uzbekistan was lifted on 11 September 2026, so Uzbekistan follows the normal non-designated-region process again. AQS published both notices only in Japanese — they do not appear on its English pages. The Japan hub now carries the notice.",
+  "pages": [
+   {
+    "label": "Pet import hub: Japan",
+    "url": "/to/japan/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "AQS (MAFF) — Import of dogs and cats from non-designated regions (Japanese)",
+    "url": "https://www.maff.go.jp/aqs/animal/dog/import-other.html"
+   }
+  ]
+ },
+ {
+  "title": "Singapore: from 1 April 2026, an AVS-recognised agent must run arrival clearance at Changi",
+  "date": "2026-11-20",
+  "body": "AVS has confirmed that from 1 April 2026 only AVS-recognised pet agents may handle import clearance at the Changi Animal and Plant Quarantine Station (CAPQ) — owners must appoint an agent before arrival and can no longer enter the Changi Airfreight Centre themselves. The agent also handles the onward transport home for pets that do not need quarantine. The pet licence, import licence application and inspection booking remain the owner's own steps, and veterinary documents are still prepared by the owner and their vet. The four Singapore route pages now carry the new clearance step.",
+  "pages": [
+   {
+    "label": "Dogs: United States → Singapore",
+    "url": "/from/united-states/to/singapore/dog/"
+   },
+   {
+    "label": "Cats: United States → Singapore",
+    "url": "/from/united-states/to/singapore/cat/"
+   },
+   {
+    "label": "Dogs: Australia → Singapore",
+    "url": "/from/australia/to/singapore/dog/"
+   },
+   {
+    "label": "Cats: Australia → Singapore",
+    "url": "/from/australia/to/singapore/cat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "AVS — Changi Animal and Plant Quarantine Station (CAPQ)",
+    "url": "https://avs.nparks.gov.sg/about-us/our-centres/changi-animal-plant-quarantine-station/"
+   },
+   {
+    "label": "AVS — Importing dogs and cats",
+    "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
+   }
+  ]
+ },
+ {
+  "title": "New Zealand's 2026 cat and dog rules: titer window shortens, ID check starts 1 October 2026",
+  "date": "2026-11-20",
+  "body": "MPI's 2026 import health standard for cats and dogs (issued 12 May 2026) runs alongside the 2021 standard until 1 April 2027, when it becomes the only one. For Category 3 origins (including the US and UK): the RNATT sample window shortens from 3–24 months to 3–12 months before shipment; a pre-export identification check becomes mandatory from 1 October 2026; dogs gain a lungworm treatment within 5 days of shipment, a Babesia rossi declaration for dogs never in mainland Africa, and a Leishmania infantum test; cats need one external parasite treatment instead of two. The four affected route pages have been updated to the 2026 rules.",
+  "pages": [
+   {
+    "label": "Dogs: United States → New Zealand",
+    "url": "/from/united-states/to/new-zealand/dog/"
+   },
+   {
+    "label": "Cats: United States → New Zealand",
+    "url": "/from/united-states/to/new-zealand/cat/"
+   },
+   {
+    "label": "Dogs: United Kingdom → New Zealand",
+    "url": "/from/united-kingdom/to/new-zealand/dog/"
+   },
+   {
+    "label": "Cats: United Kingdom → New Zealand",
+    "url": "/from/united-kingdom/to/new-zealand/cat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "NZ MPI — Import Health Standard: Cats and Dogs (2026)",
+    "url": "https://www.mpi.govt.nz/dmsdocument/71909-Cats-and-Dogs-2026-Import-Health-Standard"
+   },
+   {
+    "label": "USDA APHIS — Pet travel from the US to New Zealand",
+    "url": "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-new-zealand"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "title": "Nobivac NXT Rabies vaccine no longer accepted for Great Britain",
+  "body": "USDA APHIS reports (page updated 19 November 2026) that the Nobivac NXT Rabies vaccine — Merck's new RNA-particle rabies vaccine, launched in the US in November 2026 — no longer meets UK vaccine requirements; pets arriving vaccinated with it are treated as non-compliant, and Heathrow's Animal Reception Centre is reviewing pets due to arrive. GOV.UK requires an inactivated or recombinant rabies vaccine, and the UK authorised-products list has no NXT rabies vaccine for Great Britain. If your pet was vaccinated with Nobivac NXT, revaccinate with an accepted vaccine and restart the 21-day wait.",
+  "pages": [
+   {
+    "label": "United States → United Kingdom (dog)",
+    "url": "/from/united-states/to/united-kingdom/dog/"
+   },
+   {
+    "label": "United States → United Kingdom (cat)",
+    "url": "/from/united-states/to/united-kingdom/cat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "USDA APHIS — Pet travel from the US to the United Kingdom",
+    "url": "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-united-kingdom"
+   },
+   {
+    "label": "GOV.UK — Bringing your pet to Great Britain: what you need to do",
+    "url": "https://www.gov.uk/bring-pet-to-great-britain/what-you-need-to-do"
+   },
+   {
+    "label": "USDA APHIS — Nobivac NXT rabies vaccine (RNA particle, product 1905.D1)",
+    "url": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/product-summaries/vet-label-data/6af73e8c-6ead-4448-a93c-8d21a7723b01"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "title": "Canada: BC-IP285 avian influenza zone now Active (PCZ-FV3)",
+  "body": "CFIA's investigations list shows BC-IP285 (Township of Langley, British Columbia, commercial premises, detected 17 November 2026) has moved from 'to be determined' to Active primary control zone PCZ-FV3. No new detections were recorded on 19 November. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "pages": [
+   {
+    "label": "Canada → United States (pet bird)",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "title": "Canada records five more avian influenza detections",
+  "body": "CFIA lists five new detections dated 17–18 November 2026: BC-IP285 (Township of Langley, BC, commercial premises, still to be determined), SK-IP74 (Martin No. 122, SK, non-commercial, to be determined) and AB-IP133 (Lacomb County, AB, non-commercial, to be determined), plus SK-IP73 (Weyburn, SK) and QC-IP72 (Les Maskoutains, QC), already Active as PCZ-365 and PCZ-363. Five earlier detections have moved to Active zones: AB-IP132 → PCZ-364, SK-IP72 → PCZ-362, AB-IP131 → PCZ-361, AB-IP130 → PCZ-360, MB-IP47 → PCZ-359. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "pages": [
+   {
+    "label": "Canada → United States (pet bird)",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "title": "United Kingdom: two new H5N1 cases in England; first Northern Ireland case",
+  "body": "GOV.UK confirms H5N1 in commercial poultry near Coningsby, Lincolnshire (AIV 2026/30) and near Thirsk, North Yorkshire (AIV 2026/31), both on 18 November 2026, each with a 3 km protection zone and 10 km surveillance zone. The 2026–27 season total is now 12 H5N1 cases: 9 in England, 2 in Scotland, 1 in Northern Ireland. Northern Ireland's first case was confirmed near Coagh, County Londonderry on 16 November 2026, and its Avian Influenza Prevention Zone takes effect at 00:01 on 19 November 2026 (mandatory housing, gatherings ban); Wales joined the prevention zone from midday on 16 November 2026 (biosecurity only).",
+  "pages": [
+   {
+    "label": "United Kingdom → United States (pet bird)",
+    "url": "/from/united-kingdom/to/united-states/bird/"
+   },
+   {
+    "label": "United States → United Kingdom (pet bird)",
+    "url": "/from/united-states/to/united-kingdom/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "GOV.UK — Bird flu (avian influenza): latest situation in England",
+    "url": "https://www.gov.uk/guidance/bird-flu-avian-influenza-latest-situation-in-england"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "title": "Japan pet-bird list: Kentucky gets a fixed suspension date",
+  "body": "MHLW updated its designated-regions and suspension list on 16 November 2026. Kentucky moves from 'outbreak confirmed, details under confirmation' to a dated suspension: suspended since 15 October 2026. The total stays at 21 states — now 18 with fixed dates and 3 still under confirmation (Oregon, Maryland, Wyoming). The English page still lags behind the Japanese one.",
+  "pages": [
+   {
+    "label": "Japan's suspension list for US pet birds — all 21 states",
+    "url": "/reference/japan-pet-bird-suspension-us-states/"
+   },
+   {
+    "label": "Birds: United States → Japan",
+    "url": "/from/united-states/to/japan/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Japan MHLW — Bird designated regions and suspensions (Japanese page, updated 16 November 2026)",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134687.html"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "title": "Canada records two more avian influenza detections",
+  "body": "CFIA lists two new detections dated 16 November 2026, both still to be determined: AB-IP132 (Vulcan County, Alberta, commercial premises) and SK-IP72 (Vanscoy No. 345, Saskatchewan, non-commercial premises). The 15 November detections (AB-IP131, AB-IP130, MB-IP47) remain to be determined. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "pages": [
+   {
+    "label": "Canada → United States (pet bird)",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders?wbdisable=true"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "title": "Canada records three more avian influenza detections; one zone goes Active",
+  "body": "CFIA lists three new detections dated 15 November 2026, all still to be determined: AB-IP131 (Vermilion River, Alberta), AB-IP130 (Red Deer County, Alberta) and MB-IP47 (North Cypress-Langford, Manitoba). SK-IP70 (Loon Lake No. 56, Saskatchewan, 14 November) has moved to Active zone PCZ-358. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "pages": [
+   {
+    "label": "Canada → United States (pet bird)",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders?wbdisable=true"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "title": "Canada adds one new avian influenza detection; five zones go Active",
+  "body": "CFIA added SK-IP71 (Wilton No. 472, Saskatchewan, non-commercial poultry, detected 14 November 2026), with its control zone still 'to be determined'. Five earlier detections moved from 'to be determined' to Active control zones: BC-IP284 (Chilliwack) to PCZ-FV7, MB-IP46 (Cartier) to PCZ-356, AB-IP129 (Vulcan County) to PCZ-357, SK-IP69 (Preeceville) to PCZ-355 and SK-IP68 (Bayne No. 371) to PCZ-354. The rule for US-bound pet birds is unchanged — any Active or to-be-determined zone counts as restricted — but the zone map moved again, so the page's snapshot was refreshed.",
+  "pages": [
+   {
+    "label": "Birds: Canada → United States",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "title": "Canada records four more avian influenza detections",
+  "body": "CFIA added four detections on 13–14 November 2026: BC-IP284 (Chilliwack, British Columbia, commercial poultry, 14 November), SK-IP70 (Loon Lake, Saskatchewan, non-commercial, 14 November), MB-IP46 (Cartier, Manitoba, non-commercial, 13 November) and AB-IP129 (Vulcan County, Alberta, non-commercial, 13 November), all with control zones still 'to be determined'. BC-IP283 (Surrey, 12 November) moved to Active zone PCZ-FV2. The rule for US-bound pet birds is unchanged — any Active or to-be-determined zone counts as restricted — but the zone map moved again, so the page's snapshot was refreshed.",
+  "pages": [
+   {
+    "label": "Birds: Canada → United States",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
+   }
+  ]
+ },
+ {
+  "body": "From 13 November 2026, England's Avian Influenza Prevention Zone carries mandatory housing measures: keepers of 50 or more birds must house them (small flocks kept only for the owner's own use are exempt). The season's latest confirmed H5N1 case was in backyard poultry near Stromness, Orkney (AIV 2026/29), and England's season total stands at 7 cases. Great Britain's zone-based position for US-bound birds is unchanged — what matters is whether the bird has been inside a current protection or surveillance zone.",
+  "date": "2026-11-14",
+  "pages": [
+   {
+    "label": "Birds: United Kingdom → United States",
+    "url": "/from/united-kingdom/to/united-states/bird/"
+   },
+   {
+    "label": "Birds: United States → United Kingdom",
+    "url": "/from/united-states/to/united-kingdom/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "GOV.UK — Bird flu: latest situation in England",
+    "url": "https://www.gov.uk/guidance/bird-flu-avian-influenza-latest-situation-in-england"
+   }
+  ],
+  "title": "England adds mandatory housing for larger flocks as bird flu spreads"
+ },
+ {
+  "body": "CFIA added BC-IP283 (Surrey, British Columbia, detected 12 November 2026) and SK-IP69 (Preeceville, Saskatchewan, 13 November 2026), both with control zones still 'to be determined'. BC-IP282 (Abbotsford) and AB-IP128 (Westlock County) moved to Active zones PCZ-FV5 and PCZ-353. The rule for US-bound pet birds is unchanged — any Active or to-be-determined zone counts as restricted — but the zone map moved, so the page's snapshot was refreshed.",
+  "date": "2026-11-14",
+  "pages": [
+   {
+    "label": "Birds: Canada → United States",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
+   }
+  ],
+  "title": "Canada records two new avian influenza detections"
+ },
+ {
+  "body": "Implementing Regulations (EU) 2026/2466 and 2026/2523 added 13 open restriction zones (US-2.1424–1436) to the US entry in Annex V to Regulation (EU) 2021/404. Both amendments cover poultry consignments and fresh meat only; neither touches pet birds or Annex VI, and the US stays listed — so the Article 23 options for a pet bird travelling to Germany are unchanged. The page now lists the new zones, so an owner inside one knows to expect extra questions at certification time.",
+  "date": "2026-11-14",
+  "pages": [
+   {
+    "label": "Birds: United States → Germany",
+    "url": "/from/united-states/to/germany/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "EUR-Lex — Implementing Regulation (EU) 2026/2466",
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2466/oj/eng"
+   },
+   {
+    "label": "EUR-Lex — Implementing Regulation (EU) 2026/2523",
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2523/oj/eng"
+   }
+  ],
+  "title": "EU adds 13 new US avian-influenza zones — pet birds unaffected"
+ },
+ {
+  "body": "Japan's Ministry of Health, Labour and Welfare updated its designated-regions list on 12 November 2026: the US pet-bird suspension now covers 21 states. Maryland (12 November) and Wyoming (11 November) were added as 'outbreak, details under confirmation', joining Oregon and Kentucky in that category. MHLW's English page still shows only the 17 dated states — the Japanese list is authoritative, and the disagreement is shown on the page rather than hidden.",
+  "date": "2026-11-13",
+  "pages": [
+   {
+    "label": "Birds: United States → Japan",
+    "url": "/from/united-states/to/japan/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "MHLW — Designated regions for birds (Japanese, authoritative)",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134687.html"
+   }
+  ],
+  "title": "Japan widens its US pet-bird suspension list to 21 states"
+ },
+ {
+  "body": "GOV.UK confirmed H5N1 in commercial poultry near Dereham, Norfolk on 12 November 2026 (AIV 2026/28), with 3 km protection and 10 km surveillance zones — superseding Dersingham (9 November) as the latest case named on the UK pages. An Avian Influenza Prevention Zone had been declared across England and Scotland the day before.",
+  "date": "2026-11-13",
+  "pages": [
+   {
+    "label": "Birds: United Kingdom → United States",
+    "url": "/from/united-kingdom/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "GOV.UK — Bird flu: latest situation in England",
+    "url": "https://www.gov.uk/guidance/bird-flu-avian-influenza-latest-situation-in-england"
+   }
+  ],
+  "title": "New H5N1 case near Dereham, Norfolk"
+ },
+ {
+  "body": "The site launched with every page checked against two official government sources and date-stamped. From day one, our 27 core official sources (CDC, USDA APHIS, GOV.UK, MAFF and MHLW, DAFF, MPI, CFIA, EUR-Lex and more) are re-checked daily; any change that affects a page is logged here.",
+  "date": "2026-11-12",
+  "pages": [
+   {
+    "label": "How we check every rule",
+    "url": "/method/"
+   }
+  ],
+  "sources": [],
+  "title": "Pet Import Guide launches — and the daily watch starts"
+ }
+]
