@@ -44,4 +44,4 @@ Claude Desktop / MCP client config:
 No API key. The server only reads the public JSON API; nothing is sent anywhere
 else.
 
-mcp-name: io.github.petimportguide/pet-import-guide
+mcp-name: io.github.wobuliangren/pet-import-guide
