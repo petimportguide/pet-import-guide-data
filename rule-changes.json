@@ -60,7 +60,7 @@
  {
   "title": "Chile: permanent ID now mandatory for dogs, cats and ferrets from 27 July 2026",
   "date": "2026-11-20",
-  "body": "Under SAG Exempt Resolution No. 3,343 (published 28 April 2026, in force 27 July 2026, repealing Resolution 6,508/2021), dogs, cats and ferrets entering Chile need permanent identification — an ISO 11784/11785 microchip or a tattoo, with the number matching the CVI. First rabies vaccination at least 21 days before entry; clinical exam and antiparasitic treatment 5 to 30 days before the CVI is issued; CVI valid 10 days, extendable by 5. No rabies antibody test, no advance permit and no quarantine. We had no Chile pages, so nothing was patched: US to Chile dog and cat pages are queued for the weekend build.",
+  "body": "Under SAG Exempt Resolution No. 3,343 (published 28 April 2026, in force 27 July 2026, repealing Resolution 6,508/2021), dogs, cats and ferrets entering Chile need permanent identification — an ISO 11784/11785 microchip or a tattoo, with the number matching the CVI. First rabies vaccination at least 21 days before entry; clinical exam within 10 days before the CVI is issued, and antiparasitic treatment 5 to 30 days before it; CVI valid 10 days, extendable by 5. No rabies antibody test, no advance permit and no quarantine. US to Chile dog and cat pages went live on 20 November 2026.",
   "pages": [],
   "sources": [
    {
@@ -72,7 +72,7 @@
  {
   "title": "Vietnam: new pet import circular in force from 1 January 2026",
   "date": "2026-11-20",
-  "body": "Circular 01/2026/TT-BNNMT (Ministry of Agriculture and Environment) replaces Circular 25/2016. Owners travelling with one or two dogs or cats declare them at the airport border quarantine post; the import quarantine certificate (Form 15a) is issued within one working day if no sampling is needed. Three or more pets need advance approval from the Department of Animal Husbandry and Veterinary Medicine. Microchip before rabies vaccination. From 1 August 2026, Decree 204 fines walking a dog in public without a muzzle or leash at 1 to 2 million dong. We had no Vietnam pages, so nothing was patched: US to Vietnam dog and cat pages are queued for the weekend build.",
+  "body": "Circular 01/2026/TT-BNNMT (Ministry of Agriculture and Environment) replaces Circular 25/2016. Owners travelling with one or two dogs or cats declare them at the airport border quarantine post; the import quarantine certificate (Form 15a) is issued within one working day if no sampling is needed. Three or more pets need advance approval from the Department of Animal Husbandry and Veterinary Medicine. Microchip before rabies vaccination. From 1 August 2026, Decree 204 fines walking a dog in public without a muzzle or leash at 1 to 2 million dong. US to Vietnam dog and cat pages went live on 20 November 2026.",
   "pages": [],
   "sources": [
    {
@@ -243,6 +243,23 @@
    {
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "title": "Japan: pet-bird imports from Texas suspended from 19 November 2026",
+  "body": "MHLW's designated-regions list for birds (Japanese page, updated 20 November 2026) adds Texas, suspended from 19 November 2026 after an avian influenza outbreak. The list now names 22 US states: 19 with fixed suspension dates and 3 (Maryland, Oregon, Wyoming) where the outbreak is confirmed but details are still being verified. The bird suspension list page has been updated to 22 states.",
+  "pages": [
+   {
+    "label": "Japan's suspension list for US pet birds — all 22 states",
+    "url": "/reference/japan-pet-bird-suspension-us-states/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Japan MHLW — Bird designated regions and suspensions (Japanese page)",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134687.html"
    }
   ]
  },
@@ -467,7 +484,7 @@
   "title": "New H5N1 case near Dereham, Norfolk"
  },
  {
-  "body": "The site launched with every page checked against two official government sources and date-stamped. From day one, our 27 core official sources (CDC, USDA APHIS, GOV.UK, MAFF and MHLW, DAFF, MPI, CFIA, EUR-Lex and more) are re-checked daily; any change that affects a page is logged here.",
+  "body": "The site launched with every page checked against two official government sources and date-stamped. From day one, our official sources (CDC, USDA APHIS, GOV.UK, MAFF and MHLW, DAFF, MPI, CFIA, EUR-Lex and more) have been re-checked daily since launch; any change that affects a page is logged here.",
   "date": "2026-11-12",
   "pages": [
    {
