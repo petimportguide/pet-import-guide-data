@@ -32,14 +32,14 @@
   "from": "united-states",
   "to": "new-zealand",
   "pet": "dog",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/new-zealand/cat/",
   "from": "united-states",
   "to": "new-zealand",
   "pet": "cat",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/united-kingdom/dog/",
@@ -144,14 +144,14 @@
   "from": "united-kingdom",
   "to": "new-zealand",
   "pet": "dog",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/new-zealand/cat/",
   "from": "united-kingdom",
   "to": "new-zealand",
   "pet": "cat",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/united-kingdom/to/united-arab-emirates/dog/",
@@ -438,14 +438,14 @@
   "from": "australia",
   "to": "new-zealand",
   "pet": "dog",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/australia/to/new-zealand/cat/",
   "from": "australia",
   "to": "new-zealand",
   "pet": "cat",
-  "last_verified": "2026-11-12"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/australia/to/singapore/dog/",
@@ -1033,14 +1033,14 @@
   "from": "united-states",
   "to": "vietnam",
   "pet": "dog",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/vietnam/cat/",
   "from": "united-states",
   "to": "vietnam",
   "pet": "cat",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-23"
  },
  {
   "url": "https://petimportguide.com/from/brazil/to/portugal/cat/",
@@ -1412,5 +1412,33 @@
   "to": "united-kingdom",
   "pet": "cat",
   "last_verified": "2026-11-21"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/new-zealand/dog/",
+  "from": "canada",
+  "to": "new-zealand",
+  "pet": "dog",
+  "last_verified": "2026-11-23"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/new-zealand/cat/",
+  "from": "canada",
+  "to": "new-zealand",
+  "pet": "cat",
+  "last_verified": "2026-11-23"
+ },
+ {
+  "url": "https://petimportguide.com/from/philippines/to/canada/dog/",
+  "from": "philippines",
+  "to": "canada",
+  "pet": "dog",
+  "last_verified": "2026-11-23"
+ },
+ {
+  "url": "https://petimportguide.com/from/philippines/to/canada/cat/",
+  "from": "philippines",
+  "to": "canada",
+  "pet": "cat",
+  "last_verified": "2026-11-23"
  }
 ]
