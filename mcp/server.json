@@ -1,18 +1,18 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
-  "name": "io.github.petimportguide/pet-import-guide",
-  "description": "Verified pet import rules: 204 routes, 30 airline policies, two official sources per rule.",
+  "name": "io.github.wobuliangren/pet-import-guide",
+  "description": "Verified pet import rules: 204 routes, 31 airline policies, two official sources per rule.",
   "repository": {
     "url": "https://github.com/petimportguide/pet-import-guide-data",
     "source": "github",
     "subfolder": "mcp"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "petimportguide-mcp",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "transport": {
         "type": "stdio"
       }
