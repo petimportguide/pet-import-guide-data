@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "petimportguide-mcp"
-version = "1.0.0"
+version = "1.0.1"
 description = "MCP server for Pet Import Guide — verified pet import rules (routes, airline pet policies, rule changes) from official government sources."
 readme = "README.md"
 requires-python = ">=3.10"
