@@ -1180,14 +1180,14 @@
   "from": "united-states",
   "to": "nepal",
   "pet": "dog",
-  "last_verified": "2026-11-24"
+  "last_verified": "2026-11-25"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/nepal/cat/",
   "from": "united-states",
   "to": "nepal",
   "pet": "cat",
-  "last_verified": "2026-11-24"
+  "last_verified": "2026-11-25"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/guam/dog/",
@@ -1468,5 +1468,19 @@
   "to": "japan",
   "pet": "cat",
   "last_verified": "2026-11-25"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/canada/dog/",
+  "from": "united-states",
+  "to": "canada",
+  "pet": "dog",
+  "last_verified": "2026-11-26"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/canada/cat/",
+  "from": "united-states",
+  "to": "canada",
+  "pet": "cat",
+  "last_verified": "2026-11-26"
  }
 ]
