@@ -46,14 +46,14 @@
   "from": "united-states",
   "to": "united-kingdom",
   "pet": "dog",
-  "last_verified": "2026-11-25"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/united-kingdom/cat/",
   "from": "united-states",
   "to": "united-kingdom",
   "pet": "cat",
-  "last_verified": "2026-11-25"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/hawaii/dog/",
@@ -893,7 +893,7 @@
   "from": "united-kingdom",
   "to": "united-states",
   "pet": "bird",
-  "last_verified": "2026-11-19"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/germany/to/united-states/bird/",
@@ -907,14 +907,14 @@
   "from": "canada",
   "to": "united-states",
   "pet": "bird",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/united-kingdom/bird/",
   "from": "united-states",
   "to": "united-kingdom",
   "pet": "bird",
-  "last_verified": "2026-11-19"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/germany/bird/",
@@ -935,7 +935,7 @@
   "from": "united-states",
   "to": "japan",
   "pet": "bird",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/new-zealand/bird/",
@@ -1005,14 +1005,14 @@
   "from": "united-states",
   "to": "philippines",
   "pet": "dog",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/philippines/cat/",
   "from": "united-states",
   "to": "philippines",
   "pet": "cat",
-  "last_verified": "2026-11-20"
+  "last_verified": "2026-11-28"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/chile/dog/",
@@ -1222,14 +1222,14 @@
   "from": "united-states",
   "to": "jamaica",
   "pet": "dog",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-27"
  },
  {
   "url": "https://petimportguide.com/from/united-states/to/jamaica/cat/",
   "from": "united-states",
   "to": "jamaica",
   "pet": "cat",
-  "last_verified": "2026-11-21"
+  "last_verified": "2026-11-27"
  },
  {
   "url": "https://petimportguide.com/from/thailand/to/japan/dog/",
@@ -1629,5 +1629,740 @@
   "to": "india",
   "pet": "cat",
   "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/italy/dog/",
+  "from": "united-states",
+  "to": "italy",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/italy/cat/",
+  "from": "united-states",
+  "to": "italy",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/italy/bird/",
+  "from": "united-states",
+  "to": "italy",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-states/dog/",
+  "from": "italy",
+  "to": "united-states",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-states/cat/",
+  "from": "italy",
+  "to": "united-states",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-states/ferret/",
+  "from": "italy",
+  "to": "united-states",
+  "pet": "ferret",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-states/bird/",
+  "from": "italy",
+  "to": "united-states",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/italy/dog/",
+  "from": "united-kingdom",
+  "to": "italy",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/italy/cat/",
+  "from": "united-kingdom",
+  "to": "italy",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-kingdom/dog/",
+  "from": "italy",
+  "to": "united-kingdom",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-kingdom/cat/",
+  "from": "italy",
+  "to": "united-kingdom",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-kingdom/ferret/",
+  "from": "italy",
+  "to": "united-kingdom",
+  "pet": "ferret",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/united-kingdom/bird/",
+  "from": "italy",
+  "to": "united-kingdom",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/italy/dog/",
+  "from": "canada",
+  "to": "italy",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/italy/cat/",
+  "from": "canada",
+  "to": "italy",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/canada/dog/",
+  "from": "italy",
+  "to": "canada",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/canada/cat/",
+  "from": "italy",
+  "to": "canada",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/canada/bird/",
+  "from": "italy",
+  "to": "canada",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/italy/dog/",
+  "from": "australia",
+  "to": "italy",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/italy/cat/",
+  "from": "australia",
+  "to": "italy",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/australia/dog/",
+  "from": "italy",
+  "to": "australia",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/australia/cat/",
+  "from": "italy",
+  "to": "australia",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/australia/ferret/",
+  "from": "italy",
+  "to": "australia",
+  "pet": "ferret",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/italy/to/australia/bird/",
+  "from": "italy",
+  "to": "australia",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/mexico/dog/",
+  "from": "canada",
+  "to": "mexico",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/mexico/cat/",
+  "from": "canada",
+  "to": "mexico",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/united-kingdom/dog/",
+  "from": "mexico",
+  "to": "united-kingdom",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/united-kingdom/cat/",
+  "from": "mexico",
+  "to": "united-kingdom",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/mexico/dog/",
+  "from": "united-kingdom",
+  "to": "mexico",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/mexico/cat/",
+  "from": "united-kingdom",
+  "to": "mexico",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/spain/dog/",
+  "from": "mexico",
+  "to": "spain",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/spain/cat/",
+  "from": "mexico",
+  "to": "spain",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/spain/to/mexico/dog/",
+  "from": "spain",
+  "to": "mexico",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/spain/to/mexico/cat/",
+  "from": "spain",
+  "to": "mexico",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/germany/dog/",
+  "from": "mexico",
+  "to": "germany",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/germany/cat/",
+  "from": "mexico",
+  "to": "germany",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/germany/to/mexico/dog/",
+  "from": "germany",
+  "to": "mexico",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/germany/to/mexico/cat/",
+  "from": "germany",
+  "to": "mexico",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/mexico/ferret/",
+  "from": "united-states",
+  "to": "mexico",
+  "pet": "ferret",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/mexico/bird/",
+  "from": "united-states",
+  "to": "mexico",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/united-states/bird/",
+  "from": "mexico",
+  "to": "united-states",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/united-states/ferret/",
+  "from": "mexico",
+  "to": "united-states",
+  "pet": "ferret",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/mexico/to/canada/bird/",
+  "from": "mexico",
+  "to": "canada",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/brazil/dog/",
+  "from": "united-states",
+  "to": "brazil",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/brazil/cat/",
+  "from": "united-states",
+  "to": "brazil",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/brazil/dog/",
+  "from": "united-kingdom",
+  "to": "brazil",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/brazil/cat/",
+  "from": "united-kingdom",
+  "to": "brazil",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/brazil/bird/",
+  "from": "united-states",
+  "to": "brazil",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/brazil/bird/",
+  "from": "united-kingdom",
+  "to": "brazil",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/nepal/to/united-kingdom/dog/",
+  "from": "nepal",
+  "to": "united-kingdom",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/nepal/to/united-kingdom/cat/",
+  "from": "nepal",
+  "to": "united-kingdom",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/nepal/to/united-arab-emirates/dog/",
+  "from": "nepal",
+  "to": "united-arab-emirates",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/nepal/to/united-arab-emirates/cat/",
+  "from": "nepal",
+  "to": "united-arab-emirates",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/nepal/to/canada/dog/",
+  "from": "nepal",
+  "to": "canada",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/nepal/to/canada/cat/",
+  "from": "nepal",
+  "to": "canada",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/united-states/ferret/",
+  "from": "canada",
+  "to": "united-states",
+  "pet": "ferret",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/canada/bird/",
+  "from": "united-states",
+  "to": "canada",
+  "pet": "bird",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/hong-kong/dog/",
+  "from": "australia",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/hong-kong/cat/",
+  "from": "australia",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/hong-kong/dog/",
+  "from": "united-kingdom",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/hong-kong/cat/",
+  "from": "united-kingdom",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/hong-kong/dog/",
+  "from": "canada",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/hong-kong/cat/",
+  "from": "canada",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/japan/to/hong-kong/dog/",
+  "from": "japan",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/japan/to/hong-kong/cat/",
+  "from": "japan",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/new-zealand/to/hong-kong/dog/",
+  "from": "new-zealand",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/new-zealand/to/hong-kong/cat/",
+  "from": "new-zealand",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/japan/dog/",
+  "from": "hong-kong",
+  "to": "japan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/japan/cat/",
+  "from": "hong-kong",
+  "to": "japan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/new-zealand/dog/",
+  "from": "hong-kong",
+  "to": "new-zealand",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/new-zealand/cat/",
+  "from": "hong-kong",
+  "to": "new-zealand",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/singapore/to/hong-kong/dog/",
+  "from": "singapore",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/singapore/to/hong-kong/cat/",
+  "from": "singapore",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/taiwan/to/hong-kong/dog/",
+  "from": "taiwan",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/taiwan/to/hong-kong/cat/",
+  "from": "taiwan",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/singapore/dog/",
+  "from": "hong-kong",
+  "to": "singapore",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/singapore/cat/",
+  "from": "hong-kong",
+  "to": "singapore",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/taiwan/dog/",
+  "from": "hong-kong",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/taiwan/cat/",
+  "from": "hong-kong",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/germany/to/hong-kong/dog/",
+  "from": "germany",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/germany/to/hong-kong/cat/",
+  "from": "germany",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/netherlands/to/hong-kong/dog/",
+  "from": "netherlands",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/netherlands/to/hong-kong/cat/",
+  "from": "netherlands",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/germany/dog/",
+  "from": "hong-kong",
+  "to": "germany",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/germany/cat/",
+  "from": "hong-kong",
+  "to": "germany",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/netherlands/dog/",
+  "from": "hong-kong",
+  "to": "netherlands",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/netherlands/cat/",
+  "from": "hong-kong",
+  "to": "netherlands",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-arab-emirates/to/hong-kong/dog/",
+  "from": "united-arab-emirates",
+  "to": "hong-kong",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-arab-emirates/to/hong-kong/cat/",
+  "from": "united-arab-emirates",
+  "to": "hong-kong",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/united-arab-emirates/dog/",
+  "from": "hong-kong",
+  "to": "united-arab-emirates",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/hong-kong/to/united-arab-emirates/cat/",
+  "from": "hong-kong",
+  "to": "united-arab-emirates",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/taiwan/dog/",
+  "from": "united-states",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-states/to/taiwan/cat/",
+  "from": "united-states",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/taiwan/dog/",
+  "from": "canada",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/canada/to/taiwan/cat/",
+  "from": "canada",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/japan/to/taiwan/dog/",
+  "from": "japan",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/japan/to/taiwan/cat/",
+  "from": "japan",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/singapore/to/taiwan/dog/",
+  "from": "singapore",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/singapore/to/taiwan/cat/",
+  "from": "singapore",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/taiwan/dog/",
+  "from": "australia",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/taiwan/cat/",
+  "from": "australia",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/taiwan/dog/",
+  "from": "united-kingdom",
+  "to": "taiwan",
+  "pet": "dog",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/united-kingdom/to/taiwan/cat/",
+  "from": "united-kingdom",
+  "to": "taiwan",
+  "pet": "cat",
+  "last_verified": "2026-11-27"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/canada/dog/",
+  "from": "australia",
+  "to": "canada",
+  "pet": "dog",
+  "last_verified": "2026-11-28"
+ },
+ {
+  "url": "https://petimportguide.com/from/australia/to/canada/cat/",
+  "from": "australia",
+  "to": "canada",
+  "pet": "cat",
+  "last_verified": "2026-11-28"
  }
 ]
