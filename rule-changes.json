@@ -1,8 +1,125 @@
 [
  {
-  "date": "2026-11-25",
-  "title": "Nepal: multi-year rabies vaccines confirmed — no 12-month rule",
+  "body": "USDA APHIS updated its United Kingdom pet-travel page on 24 November 2026. The Nobivac NXT Rabies vaccine does not meet the vaccination requirements for entry into the EU or the UK, and a pet arriving vaccinated with it is treated as non-compliant; Nobivac 1 and Nobivac 3 do meet the requirements. NXT was approved for use within the United States on 2 November 2026 — that approval does not make it valid for this route. APHIS bases its position on Regulation (EU) 2020/688, Annex VII Part I, and Regulation (EU) No 576/2013, Annex III, and its earlier note that Heathrow's Animal Reception Centre was reviewing pets due to arrive has been removed. Our US to UK dog and cat pages now carry the refreshed warning.",
+  "date": "2026-11-28",
+  "pages": [
+   {
+    "label": "United States to United Kingdom — dog",
+    "url": "/from/united-states/to/united-kingdom/dog/"
+   },
+   {
+    "label": "United States to United Kingdom — cat",
+    "url": "/from/united-states/to/united-kingdom/cat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "USDA APHIS — Pet travel from the US to the United Kingdom",
+    "url": "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-united-kingdom"
+   }
+  ],
+  "title": "US to UK: APHIS refreshes the Nobivac NXT rabies warning"
+ },
+ {
+  "body": "Japan's Ministry of Health, Labour and Welfare has corrected the status of Texas on its pet-bird suspension table (Japanese page updated 27 November 2026). Texas is no longer shown with a fixed suspension date: it now reads as an outbreak confirmed on 19 November 2026 with details still under confirmation, joining Oregon, Wyoming and Maryland. The list still covers 22 states — 18 with fixed suspension dates and 4 under confirmation. Our suspension list page and the US to Japan bird route page have been corrected to match; birds from an under-confirmation state are treated as suspended in practice.",
+  "date": "2026-11-28",
+  "pages": [
+   {
+    "label": "Japan's suspension list for US pet birds",
+    "url": "/reference/japan-pet-bird-suspension-us-states/"
+   },
+   {
+    "label": "United States to Japan — bird",
+    "url": "/from/united-states/to/japan/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Japan MHLW — Bird designated regions and suspensions (Japanese page)",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134687.html"
+   }
+  ],
+  "title": "Japan's US bird suspension list: Texas corrected to 'under confirmation'"
+ },
+ {
+  "body": "The CFIA investigations-and-orders table, as checked on 28 November 2026, lists four new primary control zones, all already Active: MB-IP48 (RM of Cartier, Manitoba, commercial) as PCZ-371, ON-IP74 (Kawartha Lakes, Ontario, non-commercial) as PCZ-370, SK-IP76 (RM of Big Stick No. 141, Saskatchewan, non-commercial) as PCZ-369 and SK-IP75 (RM of Montmartre No. 126, Saskatchewan, non-commercial) as PCZ-368. Two zones that were still 'to be determined' have been assigned: SK-IP74 is now PCZ-367 and AB-IP133 is now PCZ-366. Any Active or to-be-determined zone counts as restricted for a pet bird entering the US, so check your exact location against the CFIA list before booking.",
+  "date": "2026-11-28",
+  "pages": [
+   {
+    "label": "Canada to United States — bird",
+    "url": "/from/canada/to/united-states/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "CFIA — Investigations and orders of avian influenza in domestic birds",
+    "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders?wbdisable=true"
+   }
+  ],
+  "title": "Canada bird-flu zones: four new zones listed, two more activated"
+ },
+ {
+  "body": "GOV.UK's latest-situation page now records 19 confirmed cases for the 2026–27 season: 17 H5N1 (14 in England, 2 in Scotland, 1 in Northern Ireland) plus 1 H5N5 case in Scotland. The most recent case is commercial poultry near Wesham, Fylde, Lancashire, confirmed on 26 November 2026 (AIV 2026/37), following cases near Frodsham, Cheshire (AIV 2026/36) and near Leominster, Herefordshire (AIV 2026/35) on 25 November. The UK remains not free from HPAI. Our UK to US and US to UK bird pages carry the updated counts.",
+  "date": "2026-11-28",
+  "pages": [
+   {
+    "label": "United Kingdom to United States — bird",
+    "url": "/from/united-kingdom/to/united-states/bird/"
+   },
+   {
+    "label": "United States to United Kingdom — bird",
+    "url": "/from/united-states/to/united-kingdom/bird/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "GOV.UK — Bird flu (avian influenza): latest situation in England",
+    "url": "https://www.gov.uk/guidance/bird-flu-avian-influenza-latest-situation-in-england"
+   }
+  ],
+  "title": "UK bird flu: season count reaches 19 confirmed cases"
+ },
+ {
+  "body": "We have completed three details of the Bureau of Animal Industry's Memorandum Circular No. 60 (effective 1 January 2027) on our US to Philippines dog and cat pages. A pregnant dog or cat cannot be put on an SPSIC import-permit application, and a mother may travel only once 18 weeks have passed since she gave birth. A passing rabies titer (RNATT) result stays valid for the life of the pet only while rabies boosters are given on time — a booster even one day late voids the result and the vaccination-plus-titer sequence must be repeated. And a result below 0.5 IU/ml means revaccination and a repeat blood test 14 days later.",
+  "date": "2026-11-28",
+  "pages": [
+   {
+    "label": "United States to the Philippines — dog",
+    "url": "/from/united-states/to/philippines/dog/"
+   },
+   {
+    "label": "United States to the Philippines — cat",
+    "url": "/from/united-states/to/philippines/cat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Philippines Bureau of Animal Industry — Bringing dogs and cats into the Philippines",
+    "url": "https://www.bai.gov.ph/Stakeholders/NewPetImport"
+   }
+  ],
+  "title": "Philippines MC 60: pregnancy bar and lifetime-titer conditions added"
+ },
+ {
+  "body": "Our Australia to Taiwan cat page now states the second Article 9 remedy in full. The remedies split by failure: a detention that turns on the rabies blood test — a sample drawn outside its window — runs until 97 days after a passing sample is drawn in quarantine. An identity failure is harsher: with no microchip, or a chip number that does not match the animal, DAFF's MICOR guidance (summarising Article 9 on APHIA's February 2026 information) gives a booster vaccination and quarantine until a rabies blood test passes after 187 days. Check the chip number on every document before you ship.",
+  "date": "2026-11-28",
+  "pages": [
+   {
+    "label": "Australia to Taiwan — cat",
+    "url": "/from/australia/to/taiwan/cat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "DAFF MICOR — Cats to Taiwan",
+    "url": "https://micor.agriculture.gov.au/live-animals/taiwan/cats"
+   }
+  ],
+  "title": "Australia to Taiwan cats: the 187-day identity-failure remedy added"
+ },
+ {
   "body": "Nepal's Animal Quarantine Office in Kathmandu wrote to us again on 25 November 2026, after reviewing our Nepal pages, to clarify the rabies vaccination rules: multi-year vaccines (their example is a 3-year rabies vaccine) are accepted provided the vaccine is still within its validity period on arrival and was administered at least 21 days before arrival — there is NO requirement that the vaccination fall within 12 months of entry. The office also confirmed that vaccines other than rabies are not mandatory under Nepal's regulations, though highly recommended. Our Nepal pages previously repeated a 12-month limit quoted by two guides and described the other core vaccines as required; both points are now corrected on the dog and cat pages and in the blog post about the office's corrections.",
+  "date": "2026-11-25",
   "pages": [
    {
     "label": "United States to Nepal — dog",
@@ -22,12 +139,12 @@
     "label": "Animal Quarantine Office, Kathmandu — written clarification to Pet Import Guide, 25 November 2026",
     "url": "https://petimportguide.com/from/united-states/to/nepal/dog/"
    }
-  ]
+  ],
+  "title": "Nepal: multi-year rabies vaccines confirmed — no 12-month rule"
  },
  {
-  "date": "2026-11-25",
-  "title": "UK names the vehicle for its puppy-smuggling entry ban: the European Partnership Bill",
   "body": "The UK–EU summit explainer confirms the planned ban on dogs and cats under six months old or heavily pregnant entering Great Britain will be introduced through the European Partnership Bill and secondary legislation, with tightly controlled exemptions including for genuine EU pet owners and a review after five years. No start date has been published; the ban is not in force. The Animal Welfare (Import of Dogs, Cats and Ferrets) Act 2025 already requires the first regulations under it to impose the same bans. All 30 Great Britain dog and cat route pages now carry the update in their age-and-pregnancy FAQ (the two Turkey routes, which lacked the FAQ, gained it).",
+  "date": "2026-11-25",
   "pages": [
    {
     "label": "Australia to United Kingdom — cat",
@@ -155,7 +272,8 @@
     "label": "GOV.UK — UK-EU Summit 2026 Explainer: SPS",
     "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-sps-html"
    }
-  ]
+  ],
+  "title": "UK names the vehicle for its puppy-smuggling entry ban: the European Partnership Bill"
  },
  {
   "body": "LATAM raised its in-cabin pet fees for tickets issued on or after 18 November 2026: within Brazil BRL 200 to BRL 250, within Chile CLP 50,000 to CLP 55,000, within Colombia COP 60,000 to COP 90,000, and within Peru USD 45 to USD 50. Regional flights stay USD 200 and long-haul flights stay USD 250. The new fares are live on our LATAM page; aggregators such as petvoyage.ai, pettravel.com and caninecabcompany.com still show the pre-November prices.",
@@ -242,45 +360,44 @@
   "title": "UK–EU summit confirms multi-use pet passport from 1 March 2028"
  },
  {
-  "title": "United Kingdom: the 2025 import Act is law but not yet in force — under-6-month and late-pregnancy bans still to come",
-  "date": "2026-11-21",
   "body": "The Animal Welfare (Import of Dogs, Cats and Ferrets) Act 2025 (c. 30) received Royal Assent on 2 December 2025. Section 1(3)-(4) requires the first regulations made under it for England, Scotland and Wales to prohibit bringing in dogs or cats below the age of 6 months, dogs or cats more than 42 days pregnant, and mutilated animals. Those operative provisions are not yet in force — no commencement regulations have been made — so today's GB entry rules are unchanged and the current minimum age stays at about 15 weeks. All 29 of our Great Britain inbound dog, cat and ferret pages carry this warning in their FAQs; this entry records the position in the change log. We will update the affected pages the day a commencement date is set.",
+  "date": "2026-11-21",
   "pages": [],
   "sources": [
    {
     "label": "legislation.gov.uk — Animal Welfare (Import of Dogs, Cats and Ferrets) Act 2025, s.1",
     "url": "https://www.legislation.gov.uk/ukpga/2025/30"
    }
-  ]
+  ],
+  "title": "United Kingdom: the 2025 import Act is law but not yet in force — under-6-month and late-pregnancy bans still to come"
  },
  {
-  "title": "Chile: permanent ID now mandatory for dogs, cats and ferrets from 27 July 2026",
-  "date": "2026-11-20",
   "body": "Under SAG Exempt Resolution No. 3,343 (published 28 April 2026, in force 27 July 2026, repealing Resolution 6,508/2021), dogs, cats and ferrets entering Chile need permanent identification — an ISO 11784/11785 microchip or a tattoo, with the number matching the CVI. First rabies vaccination at least 21 days before entry; clinical exam within 10 days before the CVI is issued, and antiparasitic treatment 5 to 30 days before it; CVI valid 10 days, extendable by 5. No rabies antibody test, no advance permit and no quarantine. US to Chile dog and cat pages went live on 20 November 2026.",
+  "date": "2026-11-20",
   "pages": [],
   "sources": [
    {
     "label": "LeyChile — Resolución 3343 EXENTA (2026), official text",
     "url": "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Resolucion-3343-EXENTA_28-ABR-2026&exportar_con_notas_bcn=True&exportar_con_notas_originales=True&exportar_con_notas_al_pie=True&hddResultadoExportar=1223605.2026-07-27.0.0%23"
    }
-  ]
+  ],
+  "title": "Chile: permanent ID now mandatory for dogs, cats and ferrets from 27 July 2026"
  },
  {
-  "title": "Vietnam: new pet import circular in force from 1 January 2026",
-  "date": "2026-11-20",
   "body": "Circular 01/2026/TT-BNNMT (Ministry of Agriculture and Environment) replaces Circular 25/2016. Owners travelling with one or two dogs or cats declare them at the airport border quarantine post; the import quarantine certificate (Form 15a) is issued within one working day if no sampling is needed. Three or more pets need advance approval from the Department of Animal Husbandry and Veterinary Medicine. Microchip before rabies vaccination. From 1 August 2026, Decree 204 fines walking a dog in public without a muzzle or leash at 1 to 2 million dong. US to Vietnam dog and cat pages went live on 20 November 2026.",
+  "date": "2026-11-20",
   "pages": [],
   "sources": [
    {
     "label": "Circular 01/2026/TT-BNNMT, official text (Vietnamese)",
     "url": "https://cdn.tailieu.vn/files/samples/2026/20260428/viballmer-12/012026ttbnnmt688768.pdf"
    }
-  ]
+  ],
+  "title": "Vietnam: new pet import circular in force from 1 January 2026"
  },
  {
-  "title": "Philippines: rabies titer test and new Form 1 required for import permits from 1 January 2027",
-  "date": "2026-11-20",
   "body": "Under BAI Memorandum Circular No. 60 (26 October 2026), SPSIC applications for dogs and cats approved from 1 January 2027 must include a rabies neutralizing antibody titer result of at least 0.5 IU/ml from a government-accredited laboratory and a completed Form 1 per animal. Rabies becomes the only required vaccine and the minimum age at application is 18 weeks. We had no Philippines-inbound pages, so we built the US to Philippines dog and cat pages on the new rules rather than patching anything.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "US to Philippines dog",
@@ -290,12 +407,12 @@
     "label": "US to Philippines cat",
     "url": "/from/united-states/to/philippines/cat/"
    }
-  ]
+  ],
+  "title": "Philippines: rabies titer test and new Form 1 required for import permits from 1 January 2027"
  },
  {
-  "title": "EU entry certificates: new official form mandatory for certificates issued from 1 October 2026",
-  "date": "2026-11-20",
   "body": "Under Implementing Regulation (EU) 2026/705, animal health certificates for pets entering the EU must follow the new model (Part 1 of Annex III). Certificates issued on the old model (Part 1 of Annex IV to Regulation (EU) No 577/2013) before 1 October 2026 remain acceptable only if the pet is presented at the border by 31 March 2027. The affected route pages now carry this as a question, with the EUR-Lex text as the source.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "Brazil to Portugal, dog",
@@ -311,12 +428,12 @@
     "label": "EUR-Lex — Implementing Regulation (EU) 2026/705, Article 6(3)",
     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0705"
    }
-  ]
+  ],
+  "title": "EU entry certificates: new official form mandatory for certificates issued from 1 October 2026"
  },
  {
-  "title": "Japan: dog and cat imports from Kyrgyzstan suspended since 12 June 2026",
-  "date": "2026-11-20",
   "body": "Japan's Animal Quarantine Service (AQS) suspended, in principle, the import quarantine procedures for dogs and cats exported from Kyrgyzstan on 12 June 2026; the suspension is still in force. A matching suspension for Uzbekistan was lifted on 11 September 2026, so Uzbekistan follows the normal non-designated-region process again. AQS published both notices only in Japanese — they do not appear on its English pages. The Japan hub now carries the notice.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "Pet import hub: Japan",
@@ -328,12 +445,12 @@
     "label": "AQS (MAFF) — Import of dogs and cats from non-designated regions (Japanese)",
     "url": "https://www.maff.go.jp/aqs/animal/dog/import-other.html"
    }
-  ]
+  ],
+  "title": "Japan: dog and cat imports from Kyrgyzstan suspended since 12 June 2026"
  },
  {
-  "title": "Singapore: from 1 April 2026, an AVS-recognised agent must run arrival clearance at Changi",
-  "date": "2026-11-20",
   "body": "AVS has confirmed that from 1 April 2026 only AVS-recognised pet agents may handle import clearance at the Changi Animal and Plant Quarantine Station (CAPQ) — owners must appoint an agent before arrival and can no longer enter the Changi Airfreight Centre themselves. The agent also handles the onward transport home for pets that do not need quarantine. The pet licence, import licence application and inspection booking remain the owner's own steps, and veterinary documents are still prepared by the owner and their vet. The four Singapore route pages now carry the new clearance step.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "Dogs: United States → Singapore",
@@ -361,12 +478,12 @@
     "label": "AVS — Importing dogs and cats",
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    }
-  ]
+  ],
+  "title": "Singapore: from 1 April 2026, an AVS-recognised agent must run arrival clearance at Changi"
  },
  {
-  "title": "New Zealand's 2026 cat and dog rules: titer window shortens, ID check starts 1 October 2026",
-  "date": "2026-11-20",
   "body": "MPI's 2026 import health standard for cats and dogs (issued 12 May 2026) runs alongside the 2021 standard until 1 April 2027, when it becomes the only one. For Category 3 origins (including the US and UK): the RNATT sample window shortens from 3–24 months to 3–12 months before shipment; a pre-export identification check becomes mandatory from 1 October 2026; dogs gain a lungworm treatment within 5 days of shipment, a Babesia rossi declaration for dogs never in mainland Africa, and a Leishmania infantum test; cats need one external parasite treatment instead of two. The four affected route pages have been updated to the 2026 rules.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "Dogs: United States → New Zealand",
@@ -394,12 +511,12 @@
     "label": "USDA APHIS — Pet travel from the US to New Zealand",
     "url": "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-new-zealand"
    }
-  ]
+  ],
+  "title": "New Zealand's 2026 cat and dog rules: titer window shortens, ID check starts 1 October 2026"
  },
  {
-  "date": "2026-11-20",
-  "title": "Nobivac NXT Rabies vaccine no longer accepted for Great Britain",
   "body": "USDA APHIS reports (page updated 19 November 2026) that the Nobivac NXT Rabies vaccine — Merck's new RNA-particle rabies vaccine, launched in the US in November 2026 — no longer meets UK vaccine requirements; pets arriving vaccinated with it are treated as non-compliant, and Heathrow's Animal Reception Centre is reviewing pets due to arrive. GOV.UK requires an inactivated or recombinant rabies vaccine, and the UK authorised-products list has no NXT rabies vaccine for Great Britain. If your pet was vaccinated with Nobivac NXT, revaccinate with an accepted vaccine and restart the 21-day wait.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "United States → United Kingdom (dog)",
@@ -423,12 +540,12 @@
     "label": "USDA APHIS — Nobivac NXT rabies vaccine (RNA particle, product 1905.D1)",
     "url": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/product-summaries/vet-label-data/6af73e8c-6ead-4448-a93c-8d21a7723b01"
    }
-  ]
+  ],
+  "title": "Nobivac NXT Rabies vaccine no longer accepted for Great Britain"
  },
  {
-  "date": "2026-11-20",
-  "title": "Canada: BC-IP285 avian influenza zone now Active (PCZ-FV3)",
   "body": "CFIA's investigations list shows BC-IP285 (Township of Langley, British Columbia, commercial premises, detected 17 November 2026) has moved from 'to be determined' to Active primary control zone PCZ-FV3. No new detections were recorded on 19 November. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "Canada → United States (pet bird)",
@@ -440,12 +557,12 @@
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
    }
-  ]
+  ],
+  "title": "Canada: BC-IP285 avian influenza zone now Active (PCZ-FV3)"
  },
  {
-  "date": "2026-11-20",
-  "title": "Japan: pet-bird imports from Texas suspended from 19 November 2026",
   "body": "MHLW's designated-regions list for birds (Japanese page, updated 20 November 2026) adds Texas, suspended from 19 November 2026 after an avian influenza outbreak. The list now names 22 US states: 19 with fixed suspension dates and 3 (Maryland, Oregon, Wyoming) where the outbreak is confirmed but details are still being verified. The bird suspension list page has been updated to 22 states.",
+  "date": "2026-11-20",
   "pages": [
    {
     "label": "Japan's suspension list for US pet birds — all 22 states",
@@ -457,12 +574,12 @@
     "label": "Japan MHLW — Bird designated regions and suspensions (Japanese page)",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134687.html"
    }
-  ]
+  ],
+  "title": "Japan: pet-bird imports from Texas suspended from 19 November 2026"
  },
  {
-  "date": "2026-11-19",
-  "title": "Canada records five more avian influenza detections",
   "body": "CFIA lists five new detections dated 17–18 November 2026: BC-IP285 (Township of Langley, BC, commercial premises, still to be determined), SK-IP74 (Martin No. 122, SK, non-commercial, to be determined) and AB-IP133 (Lacomb County, AB, non-commercial, to be determined), plus SK-IP73 (Weyburn, SK) and QC-IP72 (Les Maskoutains, QC), already Active as PCZ-365 and PCZ-363. Five earlier detections have moved to Active zones: AB-IP132 → PCZ-364, SK-IP72 → PCZ-362, AB-IP131 → PCZ-361, AB-IP130 → PCZ-360, MB-IP47 → PCZ-359. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "date": "2026-11-19",
   "pages": [
    {
     "label": "Canada → United States (pet bird)",
@@ -474,12 +591,12 @@
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
    }
-  ]
+  ],
+  "title": "Canada records five more avian influenza detections"
  },
  {
-  "date": "2026-11-19",
-  "title": "United Kingdom: two new H5N1 cases in England; first Northern Ireland case",
   "body": "GOV.UK confirms H5N1 in commercial poultry near Coningsby, Lincolnshire (AIV 2026/30) and near Thirsk, North Yorkshire (AIV 2026/31), both on 18 November 2026, each with a 3 km protection zone and 10 km surveillance zone. The 2026–27 season total is now 12 H5N1 cases: 9 in England, 2 in Scotland, 1 in Northern Ireland. Northern Ireland's first case was confirmed near Coagh, County Londonderry on 16 November 2026, and its Avian Influenza Prevention Zone takes effect at 00:01 on 19 November 2026 (mandatory housing, gatherings ban); Wales joined the prevention zone from midday on 16 November 2026 (biosecurity only).",
+  "date": "2026-11-19",
   "pages": [
    {
     "label": "United Kingdom → United States (pet bird)",
@@ -495,12 +612,12 @@
     "label": "GOV.UK — Bird flu (avian influenza): latest situation in England",
     "url": "https://www.gov.uk/guidance/bird-flu-avian-influenza-latest-situation-in-england"
    }
-  ]
+  ],
+  "title": "United Kingdom: two new H5N1 cases in England; first Northern Ireland case"
  },
  {
-  "date": "2026-11-18",
-  "title": "Japan pet-bird list: Kentucky gets a fixed suspension date",
   "body": "MHLW updated its designated-regions and suspension list on 16 November 2026. Kentucky moves from 'outbreak confirmed, details under confirmation' to a dated suspension: suspended since 15 October 2026. The total stays at 21 states — now 18 with fixed dates and 3 still under confirmation (Oregon, Maryland, Wyoming). The English page still lags behind the Japanese one.",
+  "date": "2026-11-18",
   "pages": [
    {
     "label": "Japan's suspension list for US pet birds — all 21 states",
@@ -516,12 +633,12 @@
     "label": "Japan MHLW — Bird designated regions and suspensions (Japanese page, updated 16 November 2026)",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134687.html"
    }
-  ]
+  ],
+  "title": "Japan pet-bird list: Kentucky gets a fixed suspension date"
  },
  {
-  "date": "2026-11-18",
-  "title": "Canada records two more avian influenza detections",
   "body": "CFIA lists two new detections dated 16 November 2026, both still to be determined: AB-IP132 (Vulcan County, Alberta, commercial premises) and SK-IP72 (Vanscoy No. 345, Saskatchewan, non-commercial premises). The 15 November detections (AB-IP131, AB-IP130, MB-IP47) remain to be determined. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "date": "2026-11-18",
   "pages": [
    {
     "label": "Canada → United States (pet bird)",
@@ -533,12 +650,12 @@
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders?wbdisable=true"
    }
-  ]
+  ],
+  "title": "Canada records two more avian influenza detections"
  },
  {
-  "date": "2026-11-17",
-  "title": "Canada records three more avian influenza detections; one zone goes Active",
   "body": "CFIA lists three new detections dated 15 November 2026, all still to be determined: AB-IP131 (Vermilion River, Alberta), AB-IP130 (Red Deer County, Alberta) and MB-IP47 (North Cypress-Langford, Manitoba). SK-IP70 (Loon Lake No. 56, Saskatchewan, 14 November) has moved to Active zone PCZ-358. Active and to-be-determined zones are both treated as restricted for US entry.",
+  "date": "2026-11-17",
   "pages": [
    {
     "label": "Canada → United States (pet bird)",
@@ -550,12 +667,12 @@
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds by province",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders?wbdisable=true"
    }
-  ]
+  ],
+  "title": "Canada records three more avian influenza detections; one zone goes Active"
  },
  {
-  "date": "2026-11-16",
-  "title": "Canada adds one new avian influenza detection; five zones go Active",
   "body": "CFIA added SK-IP71 (Wilton No. 472, Saskatchewan, non-commercial poultry, detected 14 November 2026), with its control zone still 'to be determined'. Five earlier detections moved from 'to be determined' to Active control zones: BC-IP284 (Chilliwack) to PCZ-FV7, MB-IP46 (Cartier) to PCZ-356, AB-IP129 (Vulcan County) to PCZ-357, SK-IP69 (Preeceville) to PCZ-355 and SK-IP68 (Bayne No. 371) to PCZ-354. The rule for US-bound pet birds is unchanged — any Active or to-be-determined zone counts as restricted — but the zone map moved again, so the page's snapshot was refreshed.",
+  "date": "2026-11-16",
   "pages": [
    {
     "label": "Birds: Canada → United States",
@@ -567,12 +684,12 @@
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
    }
-  ]
+  ],
+  "title": "Canada adds one new avian influenza detection; five zones go Active"
  },
  {
-  "date": "2026-11-15",
-  "title": "Canada records four more avian influenza detections",
   "body": "CFIA added four detections on 13–14 November 2026: BC-IP284 (Chilliwack, British Columbia, commercial poultry, 14 November), SK-IP70 (Loon Lake, Saskatchewan, non-commercial, 14 November), MB-IP46 (Cartier, Manitoba, non-commercial, 13 November) and AB-IP129 (Vulcan County, Alberta, non-commercial, 13 November), all with control zones still 'to be determined'. BC-IP283 (Surrey, 12 November) moved to Active zone PCZ-FV2. The rule for US-bound pet birds is unchanged — any Active or to-be-determined zone counts as restricted — but the zone map moved again, so the page's snapshot was refreshed.",
+  "date": "2026-11-15",
   "pages": [
    {
     "label": "Birds: Canada → United States",
@@ -584,7 +701,8 @@
     "label": "CFIA — Investigations and orders of avian influenza in domestic birds",
     "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/avian-influenza/latest-bird-flu-situation/investigations-and-orders"
    }
-  ]
+  ],
+  "title": "Canada records four more avian influenza detections"
  },
  {
   "body": "From 13 November 2026, England's Avian Influenza Prevention Zone carries mandatory housing measures: keepers of 50 or more birds must house them (small flocks kept only for the owner's own use are exempt). The season's latest confirmed H5N1 case was in backyard poultry near Stromness, Orkney (AIV 2026/29), and England's season total stands at 7 cases. Great Britain's zone-based position for US-bound birds is unchanged — what matters is whether the bird has been inside a current protection or surveillance zone.",
